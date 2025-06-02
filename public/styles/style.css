@@ -1,0 +1,40 @@
+.dot{
+    color: #007AFF;
+}
+.nav-link{
+    color: black;
+}
+#create-post{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.centred-button{
+margin-top: 2rem;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.card-img-top {
+    /* height: 13.75rem; 
+    width: 100%;
+    object-fit: contain; */
+    width: 14rem;
+    height: 18rem;
+   align-self: center;
+}
+.post-img{
+    /* height: 20rem; */
+    height: 40rem;
+    width: 50%; 
+    /* object-fit: cover; */
+}
+.edt-btn{
+    color: white;
+}
+.delete-btn{
+    color: black;
+}
+
